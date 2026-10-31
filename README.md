@@ -12,6 +12,13 @@ Run this in your terminal:
 claude plugin marketplace add mebmrauf/pre-launch-security && claude plugin install pre-launch-security@mebmrauf
 ```
 
+Or, if the `claude` command is not on your PATH, type these inside Claude Code, one at a time:
+
+```
+/plugin marketplace add mebmrauf/pre-launch-security
+/plugin install pre-launch-security@mebmrauf
+```
+
 Start a new Claude Code session after installing.
 
 ## Use
