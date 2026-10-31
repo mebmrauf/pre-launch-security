@@ -1,0 +1,14 @@
+{
+  "name": "mebmrauf",
+  "owner": {
+    "name": "B M Rauf",
+    "url": "https://github.com/mebmrauf"
+  },
+  "plugins": [
+    {
+      "name": "pre-launch-security",
+      "source": "./",
+      "description": "Audit a whole web app before launch like a security auditor: map every entry point, use only the checks that fit, and report each vulnerability with a suggested fix."
+    }
+  ]
+}

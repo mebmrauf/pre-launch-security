@@ -1,0 +1,13 @@
+{
+  "name": "pre-launch-security",
+  "version": "1.0.0",
+  "description": "Audit a whole web app before launch like a security auditor: map every entry point, use only the checks that fit, and report each vulnerability with a suggested fix.",
+  "author": {
+    "name": "B M Rauf",
+    "url": "https://github.com/mebmrauf"
+  },
+  "homepage": "https://github.com/mebmrauf/pre-launch-security",
+  "repository": "https://github.com/mebmrauf/pre-launch-security",
+  "license": "MIT",
+  "keywords": ["security", "audit", "owasp", "pentest", "vibe-coding"]
+}
